@@ -61,8 +61,6 @@ graph TD
         BrainCells -- "Requires 🥪 Calories" --> Output2["✅ AI Response"]
     end
 
-    Silicon_AI ~~~ Bio_AI
-
 ```
 
 ---
@@ -80,9 +78,9 @@ Here is the basic assembly line of biological computing:
 
 ```mermaid
 sequenceDiagram
-    participant User as "🧑 You (The User)"
-    participant PC as "💻 Digital Interface"
-    participant Bio as "🧠 The Organoid (Wetware)"
+    participant User as 🧑 You (The User)
+    participant PC as 💻 Digital Interface
+    participant Bio as 🧠 The Organoid (Wetware)
     
     User->>PC: "Solve this complex pattern!"
     PC->>Bio: Sends electrical impulses via micro-electrodes
