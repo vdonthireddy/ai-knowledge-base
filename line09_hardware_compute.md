@@ -54,7 +54,7 @@ flowchart LR
     A[Data & Algorithms] --> B[Massive GPU Clusters]
     B -->|Trillions of Calculations| C(Heat Generation)
     C --> D[Industrial Cooling Systems]
-    D --> E("(Massive Electricity Draw"))
+    D --> E(("Massive Electricity Draw"))
 ```
 
 ## 🏢 The Physical Reality of AI Servers

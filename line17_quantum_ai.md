@@ -39,7 +39,7 @@ flowchart TD
     end
 
     subgraph Quantum_Computer ["Quantum Computer"]
-        F[Qubit] -->|Superposition| G("((0 AND 1 at the same time")))
+        F[Qubit] -->|Superposition| G((("0 AND 1 at the same time")))
         H[Entangled Qubits] -->|Work Together Instantly| I[Process All Paths Simultaneously]
         G --> J[Processing]
         I --> J

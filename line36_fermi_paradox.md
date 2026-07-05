@@ -34,12 +34,12 @@ flowchart TD
     C --> D{Does the Civilization Survive ASI?}
     
     D -- No --> E["The Filter: Self-Destruction"]
-    E --> F("(Silent Universe"))
+    E --> F(("Silent Universe"))
     
     D -- Yes --> G{How Does ASI Evolve?}
     
     G -- Outward --> H[Galactic Expansion & Megastructures]
-    H -.-> I("(We Should See Them \n *But We Don't!*"))
+    H -.-> I(("We Should See Them \n *But We Don't!*"))
     
     G -- Inward --> J[Digitization & Micro-Universes]
     J --> F

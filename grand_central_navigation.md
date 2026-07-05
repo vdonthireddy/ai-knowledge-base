@@ -27,7 +27,7 @@ flowchart LR
         P([The Product Manager])
     end
 
-    GC("((Grand Central<br>Terminal")))
+    GC((("Grand Central<br>Terminal")))
 
     subgraph Lines ["The Metro Lines"]
         HL[Hardware Line]
