@@ -47,7 +47,7 @@ graph TD
         AIChip -->|Instant Answer| Phone2
     end
 
-    The City ~~~ The Suburbs
+    The_City__Cloud_AI_ ~~~ The_Suburbs__Edge_AI_
 ```
 
 If the Cloud is so powerful, why move AI to the Edge? 

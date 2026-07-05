@@ -28,7 +28,7 @@ Reinforcement Learning works exactly the same way for AI.
 graph TD
     subgraph Reinforcement_Learning_Loop ["Reinforcement Learning Loop"]
         direction TB
-        Agent[🤖 AI Brain] -->|Takes an action<br/>(e.g., moves a leg)| World[🌍 The Physical World]
+        Agent["🤖 AI Brain"] -->|Takes an action<br/>(e.g., moves a leg)| World["🌍 The Physical World"]
         World -->|Updates State<br/>(e.g., robot fell over)| Agent
         World -.->|Reward / Penalty<br/>(e.g., -1 point for falling, +10 for stepping)| Agent
     end
@@ -60,14 +60,14 @@ Because driving requires constant attention, the car's AI operates in a continuo
 
 ```mermaid
 graph LR
-    A[👁️ Perception] --> B[🧠 Prediction]
-    B --> C[🗺️ Planning]
-    C --> D[⚙️ Execution]
+    A["👁️ Perception"] --> B["🧠 Prediction"]
+    B --> C["🗺️ Planning"]
+    C --> D["⚙️ Execution"]
 
-    A -.->|"Sees a red light<br/>and a pedestrian"| B
-    B -.->|"Predicts the pedestrian<br/>will cross the street"| C
-    C -.->|"Plans to stop<br/>before the crosswalk"| D
-    D -.->|"Applies the brakes"| A
+    A -.->|Sees a red light<br/>and a pedestrian| B
+    B -.->|Predicts the pedestrian<br/>will cross the street| C
+    C -.->|Plans to stop<br/>before the crosswalk| D
+    D -.->|Applies the brakes| A
     
 ```
 

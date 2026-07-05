@@ -46,9 +46,9 @@ Raw data scooped directly out of a Data Lake is rarely ready for an AI to consum
 
 ```mermaid
 flowchart LR
-    A["Raw Data Sources\nApps, Sensors, Logs"] -->|Extract| B["(Data Lake\nRaw & Muddy")]
-    B -->|Extract| C{"Transform Engine\nClean, Filter, Format"}
-    C -->|Load| D["(Data Warehouse\nClean & Bottled")]
+    A["Raw Data Sources<br/>Apps, Sensors, Logs"] -->|Extract| B[("Data Lake<br/>Raw & Muddy")]
+    B -->|Extract| C{"Transform Engine<br/>Clean, Filter, Format"}
+    C -->|Load| D[("Data Warehouse<br/>Clean & Bottled")]
     D --> E[AI Models & Analytics]
     
 ```
