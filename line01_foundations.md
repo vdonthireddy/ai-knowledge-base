@@ -47,7 +47,7 @@ graph TD
         H --> I[🐙 Git & Version Control]
     end
     
-    I --> J[🚀 Next Stop: Machine Learning]
+    I --> J["🚀 Next Stop: Machine Learning"]
 
 ```
 

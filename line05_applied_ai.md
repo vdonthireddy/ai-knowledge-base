@@ -38,7 +38,7 @@ graph TD
         E --> F[📄 Finds Relevant Facts]
         D --> G[🧠 AI Reads Facts]
         F --> G
-        G --> H[✅ Accurate, Fact-Based Answer]
+        G --> H["✅ Accurate, Fact-Based Answer"]
     end
     
 ```
@@ -53,8 +53,8 @@ An **AI Agent** (using Agentic AI & Tool-Use Capabilities) is like a super-smart
 
 ```mermaid
 graph LR
-    User[🧑 User: "Schedule a meeting with Bob"] --> Agent[🤖 AI Agent]
-    Agent -->|1. Thinks| Plan[📝 Plan: Check calendar, email Bob]
+    User["🧑 User: 'Schedule a meeting with Bob'"] --> Agent[🤖 AI Agent]
+    Agent -->|1. Thinks| Plan["📝 Plan: Check calendar, email Bob"]
     Agent -->|2. Uses Tool| Cal[📅 Calendar App]
     Agent -->|3. Uses Tool| Email[📧 Email App]
     Email --> Success[✅ Meeting Scheduled!]

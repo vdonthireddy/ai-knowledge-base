@@ -58,7 +58,7 @@ AI learns from human data, and humans have biases. If an AI is trained on hiring
 
 ```mermaid
 graph TD
-    A[Human Historical Data<br/>Contains Bias] --> B[Train AI Model]
+    A["Human Historical Data<br/>Contains Bias"] --> B[Train AI Model]
     B --> C[AI Makes Predictions]
     C --> D{🔍 Bias Detector}
     D -- "Bias Detected!<br/>(e.g., Rejecting qualified women)" --> E[Retrain & Adjust Weights]

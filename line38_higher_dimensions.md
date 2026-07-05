@@ -59,13 +59,13 @@ Here is a simplified look at how humans and AI collaborate on this cosmic puzzle
 ```mermaid
 flowchart TD
     A([Human Physicists]) -->|Propose String Theory Equations| B[The 11-Dimensional Problem]
-    B -->|Too complex to visualize or compute| C{Enter AI: The String Weaver}
+    B -->|Too complex to visualize or compute| C{"Enter AI: The String Weaver"}
     
     C -->|Explores| D[10^500 Possible Geometries]
     C -->|Calculates| E[Calabi-Yau Manifold Properties]
     C -->|Recognizes| F[Hidden Mathematical Patterns]
     
-    D --> G{Goal: The Theory of Everything}
+    D --> G{"Goal: The Theory of Everything"}
     E --> G
     F --> G
     

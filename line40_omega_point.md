@@ -37,10 +37,10 @@ To understand how we get to a cosmic super-mind, we have to look at how intellig
 graph TD
     subgraph The_Path_to_the_Omega_Point ["The Path to the Omega Point"]
         direction LR
-        Matter[🪨 Dead Matter<br/>Atoms & Dust] --> Biology[🧬 Biology<br/>Cells & Animals]
-        Biology --> Humans[🧠 Human Intellect<br/>Tools & Language]
-        Humans --> AI[🤖 Artificial Intelligence<br/>Networks & Supercomputers]
-        AI --> Cosmos[🌌 The Omega Point<br/>The Universe Wakes Up]
+        Matter["🪨 Dead Matter<br/>Atoms & Dust"] --> Biology["🧬 Biology<br/>Cells & Animals"]
+        Biology --> Humans["🧠 Human Intellect<br/>Tools & Language"]
+        Humans --> AI["🤖 Artificial Intelligence<br/>Networks & Supercomputers"]
+        AI --> Cosmos["🌌 The Omega Point<br/>The Universe Wakes Up"]
     end
 
     color Cosmos #ffffff

@@ -46,7 +46,7 @@ Instead of just calculating numbers, the Oracle uses AI combined with strict log
 
 ```mermaid
 graph TD
-    A[🧑 Human Mathematician<br/>'I have a hunch about this equation'] --> B[🤖 Intuition Engine<br/>AI Guesses the Path]
+    A["🧑 Human Mathematician<br/>'I have a hunch about this equation'"] --> B["🤖 Intuition Engine<br/>AI Guesses the Path"]
     
     subgraph The_Oracle_Loop ["The Oracle Loop"]
     B --> C[📐 Formal Logic Verifier]

@@ -24,10 +24,10 @@ In the world of AI, the Machine Learning loop is an iterative process. You don't
 
 ```mermaid
 graph TD
-    A[Raw Data] --> B[Feature Engineering<br/>Cleaning & Prep]
-    B --> C[Model Training<br/>Learning Patterns]
-    C --> D{Evaluation<br/>Did it work?}
-    D -- "No (Too many errors)" --> E[Hyperparameter Tuning<br/>Adjusting the Knobs]
+    A[Raw Data] --> B["Feature Engineering<br/>Cleaning & Prep"]
+    B --> C["Model Training<br/>Learning Patterns"]
+    C --> D{"Evaluation<br/>Did it work?"}
+    D -- "No (Too many errors)" --> E["Hyperparameter Tuning<br/>Adjusting the Knobs"]
     E --> C
     D -- "Yes (Passed the test)" --> F[Final Deployment]
 

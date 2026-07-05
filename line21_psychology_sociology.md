@@ -48,8 +48,8 @@ Because of this, AI is forcing a massive shift in **societal trust**. We can no 
 ```mermaid
 graph TD
     A[Digital Media Encountered] --> B{Does it look/sound real?}
-    B -->|Yes| C[The Old Way: Believe It]
-    B -->|Yes| D[The New Way: The Trust Filter]
+    B -->|Yes| C["The Old Way: Believe It"]
+    B -->|Yes| D["The New Way: The Trust Filter"]
     D --> E{Verify Source}
     E -->|Trusted Publisher/Cryptographic Proof| F[Accept as Real]
     E -->|Unknown Source/Social Media| G[Assume AI-Generated / Fake]

@@ -24,14 +24,14 @@ To understand who makes money in AI, you have to look at how the technology is c
 
 ```mermaid
 graph TD
-    VC[💰 AI Venture Capital<br/>'The Investors'] -->|Funds| FM
+    VC["💰 AI Venture Capital<br/>'The Investors'"] -->|Funds| FM
     VC -->|Funds| WS
     
-    FM[🌾 Foundational Models<br/>OpenAI, Anthropic<br/>'The Farmers'] -->|Raw AI Ingredients| CP
+    FM["🌾 Foundational Models<br/>OpenAI, Anthropic<br/>'The Farmers'"] -->|Raw AI Ingredients| CP
     
-    CP[🛒 Cloud Providers<br/>Microsoft, Google, AWS<br/>'The Supermarkets'] -->|Hosting & Scale| WS
+    CP["🛒 Cloud Providers<br/>Microsoft, Google, AWS<br/>'The Supermarkets'"] -->|Hosting & Scale| WS
     
-    WS[🍔 Wrapper Startups<br/>Jasper, Harvey<br/>'The Restaurants'] -->|Specific AI Apps| U[🧑 You, The Customer]
+    WS["🍔 Wrapper Startups<br/>Jasper, Harvey<br/>'The Restaurants'"] -->|Specific AI Apps| U["🧑 You, The Customer"]
     
 ```
 

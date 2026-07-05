@@ -51,12 +51,12 @@ If the statement is true, then math works, but there is a true statement that si
 
 ```mermaid
 graph TD
-    A[The System of Logic/Math] --> B{Is it Consistent?<br>(No Contradictions)}
-    B -- Yes --> C[There are true statements<br>that CANNOT be proven.]
-    B -- No --> D[The system is broken<br>and contradicts itself.]
+    A[The System of Logic/Math] --> B{"Is it Consistent?<br>(No Contradictions")}
+    B -- Yes --> C["There are true statements<br>that CANNOT be proven."]
+    B -- No --> D["The system is broken<br>and contradicts itself."]
     
-    C --> E[Result: INCOMPLETE]
-    D --> F[Result: INCONSISTENT]
+    C --> E["Result: INCOMPLETE"]
+    D --> F["Result: INCONSISTENT"]
     
 ```
 

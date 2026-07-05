@@ -41,17 +41,17 @@ When you mix that fuel into that engine using those blueprints, you get a rocket
 ```mermaid
 graph LR
     subgraph The_Past ["The Past"]
-        A[1950s-60s<br/>Early Optimism] --> B[1970s & 80s<br/>❄️ AI Winters]
+        A["1950s-60s<br/>Early Optimism"] --> B["1970s & 80s<br/>❄️ AI Winters"]
     end
     
     subgraph The_Present ["The Present"]
-        B --> C[2010s<br/>🔥 Deep Learning Boom]
+        B --> C["2010s<br/>🔥 Deep Learning Boom"]
         C --> D[Data + GPUs + Algorithms]
     end
     
     subgraph The_Future ["The Future"]
-        D --> E[AGI<br/>Human-Level AI]
-        E --> F[ASI<br/>Super-Intelligence]
+        D --> E["AGI<br/>Human-Level AI"]
+        E --> F["ASI<br/>Super-Intelligence"]
     end
     
 ```
@@ -81,8 +81,8 @@ Since the AGI can think and work millions of times faster than a human, it desig
 
 ```mermaid
 graph TD
-    A[🤖 Narrow AI<br/>Expert at one specific task] -->|Broadens capabilities| B[🧠 AGI<br/>As smart as any human across all tasks]
-    B -->|Improves its own code<br/>in an 'Intelligence Explosion'| C[🌌 ASI<br/>Millions of times smarter than all humanity combined]
+    A["🤖 Narrow AI<br/>Expert at one specific task"] -->|Broadens capabilities| B["🧠 AGI<br/>As smart as any human across all tasks"]
+    B -->|Improves its own code<br/>in an 'Intelligence Explosion'| C["🌌 ASI<br/>Millions of times smarter than all humanity combined"]
     
 ```
 

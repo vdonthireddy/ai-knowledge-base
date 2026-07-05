@@ -14,15 +14,15 @@ To understand how AI is processed, let's look at the different types of computer
 
 ```mermaid
 graph TD
-    Task[The Task: Build a Massive Wall]
+    Task["The Task: Build a Massive Wall"]
     
     Task --> CPU
     Task --> GPU
     Task --> TPU
     
-    CPU[CPU: The Foreman] -->|Lays 1 brick very carefully| CPU_Result(Great for complex logic, slow for massive data)
-    GPU[GPU: Army of Workers] -->|10,000 workers lay 1 brick simultaneously| GPU_Result(Fast for massive repetitive tasks)
-    TPU[TPU: Assembly Line Machine] -->|Automated matrix multiplication| TPU_Result(Ultra-fast, but only does AI math)
+    CPU["CPU: The Foreman"] -->|Lays 1 brick very carefully| CPU_Result("Great for complex logic, slow for massive data")
+    GPU["GPU: Army of Workers"] -->|10,000 workers lay 1 brick simultaneously| GPU_Result(Fast for massive repetitive tasks)
+    TPU["TPU: Assembly Line Machine"] -->|Automated matrix multiplication| TPU_Result("Ultra-fast, but only does AI math")
 ```
 
 ## 🗣️ What is CUDA? (The Universal Translator)
@@ -54,7 +54,7 @@ flowchart LR
     A[Data & Algorithms] --> B[Massive GPU Clusters]
     B -->|Trillions of Calculations| C(Heat Generation)
     C --> D[Industrial Cooling Systems]
-    D --> E((Massive Electricity Draw))
+    D --> E("(Massive Electricity Draw"))
 ```
 
 ## 🏢 The Physical Reality of AI Servers

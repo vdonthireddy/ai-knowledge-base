@@ -18,11 +18,11 @@ In AI, **"Buy"** means using existing services like OpenAI's API (ChatGPT), Goog
 
 ```mermaid
 graph TD
-    A[Do you need AI for a common, standard task?]
-    A -- Yes, like text generation --> B(Buy: Use an existing API/Service)
-    A -- No, it's highly specialized --> C{Do you have unique, high-quality data?}
+    A["Do you need AI for a common, standard task?"]
+    A -- Yes, like text generation --> B("Buy: Use an existing API/Service")
+    A -- No, it's highly specialized --> C{"Do you have unique, high-quality data?"}
     C -- No --> D(Don't use AI yet. Fix your data first.)
-    C -- Yes --> E(Build: Train a custom AI model)
+    C -- Yes --> E("Build: Train a custom AI model")
 ```
 
 ---

@@ -22,11 +22,11 @@ No single country on Earth can build an advanced microchip entirely on its own. 
 
 ```mermaid
 graph TD
-    A[🇺🇸 Design<br/>Apple, Nvidia, AMD] -->|Blueprints| B[🇹🇼 Manufacturing<br/>TSMC]
-    C[🇳🇱 Equipment<br/>ASML] -->|EUV Machines| B
-    D[🇯🇵 Chemicals & Materials<br/>Japan] -->|Photoresists & Wafers| B
-    B -->|Silicon Wafers| E[🇲🇾🇻🇳 Assembly & Testing<br/>Malaysia, Vietnam, China]
-    E -->|Finished Chips| F[🌍 Global Market<br/>Phones, Cars, AI, Weapons]
+    A["🇺🇸 Design<br/>Apple, Nvidia, AMD"] -->|Blueprints| B["🇹🇼 Manufacturing<br/>TSMC"]
+    C["🇳🇱 Equipment<br/>ASML"] -->|EUV Machines| B
+    D["🇯🇵 Chemicals & Materials<br/>Japan"] -->|Photoresists & Wafers| B
+    B -->|Silicon Wafers| E["🇲🇾🇻🇳 Assembly & Testing<br/>Malaysia, Vietnam, China"]
+    E -->|Finished Chips| F["🌍 Global Market<br/>Phones, Cars, AI, Weapons"]
     
 ```
 
