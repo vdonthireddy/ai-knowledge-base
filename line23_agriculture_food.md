@@ -25,7 +25,7 @@ In the AI Metro Map, **Line 23 (The Greenhouse)** represents the intersection of
 
 ```mermaid
 graph TD
-    subgraph Traditional Farming
+    subgraph Traditional_Farming [Traditional Farming]
         direction LR
         Farmer1[🧑‍🌾 Farmer] -->|"Guesses field needs"| Action1[🚜 Spray entire field]
         Action1 -->|"Wastes resources"| Result1[📉 Average Yield]
@@ -33,7 +33,7 @@ graph TD
 
     Result1 ~~~ Farmer2
 
-    subgraph The AI Greenhouse
+    subgraph The_AI_Greenhouse [The AI Greenhouse]
         direction LR
         Sensors[📡 Drones & Sensors] -->|"Scans each plant"| AI2[🤖 AI Brain]
         AI2 -->|"Calculates exact needs"| Action2[🎯 Target specific plants]

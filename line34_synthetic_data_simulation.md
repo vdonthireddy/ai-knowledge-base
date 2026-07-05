@@ -51,12 +51,12 @@ Here is a simple look at how this ecosystem feeds itself:
 
 ```mermaid
 flowchart TD
-    subgraph The Real World
+    subgraph The_Real_World [The Real World]
         HumanData[Human Internet Data]
         RealRobot[Physical Robot Deployed]
     end
 
-    subgraph The Matrix (Line 34)
+    subgraph The_Matrix__Line_34_ [The Matrix (Line 34)]
         TeacherAI[Teacher AI generates pristine Synthetic Data]
         StudentAI[Student AI learns from Synthetic Data]
         SimEngine[Physics Simulation / Digital Twin]

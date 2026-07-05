@@ -48,7 +48,7 @@ Instead of just calculating numbers, the Oracle uses AI combined with strict log
 graph TD
     A[🧑 Human Mathematician<br/>'I have a hunch about this equation'] --> B[🤖 Intuition Engine<br/>AI Guesses the Path]
     
-    subgraph The Oracle Loop
+    subgraph The_Oracle_Loop [The Oracle Loop]
     B --> C[📐 Formal Logic Verifier]
     C -- "Logic error at Step 4!<br/>Try a different approach." --> B
     end

@@ -35,13 +35,13 @@ Most modern AI models (like ChatGPT) are massive. They require supercomputers ho
 
 ```mermaid
 graph TD
-    subgraph The City (Cloud AI)
+    subgraph The_City__Cloud_AI_ [The City (Cloud AI)]
         direction LR
         Phone1[📱 Your Phone] -.->|1. Sends Data over Wi-Fi| Cloud[☁️ Massive Data Center]
         Cloud -.->|2. Sends Answer Back| Phone1
     end
 
-    subgraph The Suburbs (Edge AI)
+    subgraph The_Suburbs__Edge_AI_ [The Suburbs (Edge AI)]
         direction LR
         Phone2[📱 Your Phone] -->|Processes everything locally| AIChip[🧠 Built-in AI Chip]
         AIChip -->|Instant Answer| Phone2

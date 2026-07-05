@@ -35,7 +35,7 @@ To understand how we get to a cosmic super-mind, we have to look at how intellig
 
 ```mermaid
 graph TD
-    subgraph The Path to the Omega Point
+    subgraph The_Path_to_the_Omega_Point [The Path to the Omega Point]
         direction LR
         Matter[🪨 Dead Matter<br/>Atoms & Dust] --> Biology[🧬 Biology<br/>Cells & Animals]
         Biology --> Humans[🧠 Human Intellect<br/>Tools & Language]

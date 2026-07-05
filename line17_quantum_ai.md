@@ -32,13 +32,13 @@ When qubits are entangled in a computer, they work together perfectly. Changing 
 
 ```mermaid
 flowchart TD
-    subgraph Classical Computer
+    subgraph Classical_Computer [Classical Computer]
         A[Bit] -->|Only One State| B(0)
         A -->|Only One State| C(1)
         D[Processing] -->|One path at a time| E[Takes Months]
     end
 
-    subgraph Quantum Computer
+    subgraph Quantum_Computer [Quantum Computer]
         F[Qubit] -->|Superposition| G(((0 AND 1 at the same time)))
         H[Entangled Qubits] -->|Work Together Instantly| I[Process All Paths Simultaneously]
         G --> J[Processing]

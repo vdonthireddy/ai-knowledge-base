@@ -28,12 +28,12 @@ Standard chatbots (like ChatGPT) rely on their internal memory—everything they
 
 ```mermaid
 graph TD
-    subgraph Traditional AI Closed-Book
+    subgraph Traditional_AI_Closed_Book [Traditional AI Closed-Book]
         A[🧑 User Question] --> B[🧠 AI's Internal Memory]
         B --> C[🤷 Possible Hallucinated Answer]
     end
 
-    subgraph RAG AI Open-Book
+    subgraph RAG_AI_Open_Book [RAG AI Open-Book]
         D[🧑 User Question] --> E[🔍 Search Private Company Files]
         E --> F[📄 Finds Relevant Facts]
         D --> G[🧠 AI Reads Facts]
