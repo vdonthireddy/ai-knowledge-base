@@ -50,18 +50,18 @@ When we connect these living clusters of neurons to electronic sensors and compu
 graph TD
     subgraph Silicon_AI [Traditional AI (Silicon)]
         direction LR
-        Data1[📊 Data Input] --> Chip[💻 Microchip]
-        Chip -->|Requires ⚡ Megawatts| Output1[✅ AI Response]
+        Data1["📊 Data Input"] --> Chip["💻 Microchip"]
+        Chip -- "Requires ⚡ Megawatts" --> Output1["✅ AI Response"]
     end
-
-    Silicon_AI ~~~ Bio_AI
 
     subgraph Bio_AI [Organoid Intelligence (Wetware)]
         direction LR
-        Data2[📊 Data Input] --> Electrodes[🔌 Electrodes]
-        Electrodes --> BrainCells[🧠 Living Brain Cells]
-        BrainCells -->|Requires 🥪 Calories| Output2[✅ AI Response]
+        Data2["📊 Data Input"] --> Electrodes["🔌 Electrodes"]
+        Electrodes --> BrainCells["🧠 Living Brain Cells"]
+        BrainCells -- "Requires 🥪 Calories" --> Output2["✅ AI Response"]
     end
+
+    Silicon_AI ~~~ Bio_AI
 
 ```
 
@@ -80,9 +80,9 @@ Here is the basic assembly line of biological computing:
 
 ```mermaid
 sequenceDiagram
-    participant User as 🧑 You (The User)
-    participant PC as 💻 Digital Interface
-    participant Bio as 🧠 The Organoid (Wetware)
+    participant User as "🧑 You (The User)"
+    participant PC as "💻 Digital Interface"
+    participant Bio as "🧠 The Organoid (Wetware)"
     
     User->>PC: "Solve this complex pattern!"
     PC->>Bio: Sends electrical impulses via micro-electrodes
