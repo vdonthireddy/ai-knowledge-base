@@ -46,7 +46,7 @@ graph TD
         direction LR
         A[Raw Data In] --> B[Committee Guesses]
         B --> C{Boss Checks Answer}
-        C -->|Wrong!| D["'Blame Passed Backwards<br/>(Backpropagation")"]
+        C -->|Wrong!| D["Blame Passed Backwards<br/>(Backpropagation)"]
         D --> B
         C -->|Correct!| E[Smart AI Model]
     end
