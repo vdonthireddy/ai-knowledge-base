@@ -63,9 +63,6 @@ graph TD
         BrainCells -->|Requires 🥪 Calories| Output2[✅ AI Response]
     end
 
-    style Chip fill:#f9f9f9,stroke:#ccc
-    style BrainCells fill:#ffe6f2,stroke:#d53f8c,stroke-width:2px
-    style Electrodes fill:#e6fffa,stroke:#38b2ac
 ```
 
 ---

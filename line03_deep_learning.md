@@ -51,9 +51,6 @@ graph TD
         C -- "Correct!" --> E[Smart AI Model]
     end
     
-    style B fill:#e6f3ff,stroke:#4a90e2
-    style C fill:#fff5eb,stroke:#ed8936
-    style E fill:#e6fffa,stroke:#38b2ac
 ```
 
 ---

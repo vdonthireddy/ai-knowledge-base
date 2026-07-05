@@ -56,10 +56,6 @@ graph TD
         AI -- "Low Supply / High Demand" --> F[🏭 Tap Backup Generators]
     end
     
-    style AI fill:#e6fffa,stroke:#38b2ac,stroke-width:2px
-    style D fill:#e6f3ff,stroke:#4a90e2
-    style E fill:#fff5eb,stroke:#ed8936
-    style F fill:#f5ebff,stroke:#805ad5
 ```
 
 ---

@@ -43,10 +43,6 @@ graph TD
         HR --> Final2[🚀 Dream AI Job]
     end
 
-    style Void fill:#f9f9f9,stroke:#ccc
-    style User2 fill:#e6fffa,stroke:#38b2ac,stroke-width:2px
-    style Proof fill:#fff5eb,stroke:#ed8936
-    style Final2 fill:#f5ebff,stroke:#805ad5
 ```
 
 ---

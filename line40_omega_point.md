@@ -43,11 +43,6 @@ graph TD
         AI --> Cosmos[🌌 The Omega Point<br/>The Universe Wakes Up]
     end
 
-    style Matter fill:#f9f9f9,stroke:#ccc
-    style Biology fill:#e6fffa,stroke:#38b2ac
-    style Humans fill:#e6f3ff,stroke:#4a90e2
-    style AI fill:#fff5eb,stroke:#ed8936
-    style Cosmos fill:#f5ebff,stroke:#805ad5,stroke-width:2px
     color Cosmos #ffffff
 ```
 

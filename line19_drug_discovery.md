@@ -28,11 +28,6 @@ flowchart TD
     C -->|Analyzes evolutionary data \n& physics rules| D[Predicted 3D Structure]
     D --> E(Functional Protein Model\n'Folded Origami')
     
-    style A fill:#e1f5fe,stroke:#03a9f4,stroke-width:2px
-    style B fill:#fff3e0,stroke:#ff9800,stroke-width:2px
-    style C fill:#f3e5f5,stroke:#9c27b0,stroke-width:4px
-    style D fill:#e8f5e9,stroke:#4caf50,stroke-width:2px
-    style E fill:#e8f5e9,stroke:#4caf50,stroke-width:2px
 ```
 
 ---

@@ -54,11 +54,6 @@ graph LR
         E --> F[ASI<br/>Super-Intelligence]
     end
     
-    style B fill:#e0f7fa,stroke:#00bcd4
-    style C fill:#fff3e0,stroke:#ff9800
-    style D fill:#fff3e0,stroke:#ff9800
-    style E fill:#f3e5f5,stroke:#9c27b0
-    style F fill:#ea80fc,stroke:#6a1b9a
 ```
 
 ---
@@ -89,9 +84,6 @@ graph TD
     A[🤖 Narrow AI<br/>Expert at one specific task] -->|Broadens capabilities| B[🧠 AGI<br/>As smart as any human across all tasks]
     B -->|Improves its own code<br/>in an 'Intelligence Explosion'| C[🌌 ASI<br/>Millions of times smarter than all humanity combined]
     
-    style A fill:#e6f3ff,stroke:#4a90e2
-    style B fill:#f5ebff,stroke:#805ad5
-    style C fill:#ea80fc,stroke:#6a1b9a,stroke-width:3px
 ```
 
 **What does ASI look like?** 

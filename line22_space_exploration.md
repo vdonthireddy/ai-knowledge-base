@@ -39,10 +39,6 @@ graph TD
         Process --> Turn[✅ Safely Avoids Rock]
     end
 
-    style Earth fill:#e6f3ff,stroke:#4a90e2
-    style Rover fill:#ffe6e6,stroke:#e53e3e
-    style AI_Rover fill:#e6fffa,stroke:#38b2ac,stroke-width:2px
-    style Turn fill:#f0fff4,stroke:#48bb78
 ```
 
 ---
@@ -78,10 +74,6 @@ graph TD
     D -- "Spots a 0.01% dip in light" --> E[🪐 Exoplanet Found!]
     end
     
-    style A fill:#f9f9f9,stroke:#ccc
-    style B fill:#e6fffa,stroke:#38b2ac
-    style D fill:#fff5eb,stroke:#ed8936
-    style E fill:#f5ebff,stroke:#805ad5
 ```
 
 * **The AI's job:** JWST beams back mountains of messy, noisy data. AI is used to sift through this static, filtering out the blinding starlight and instrument noise to find the microscopic, regular dips in light that prove a planet is there. It can even help analyze the atmosphere of that planet to see if it holds water or oxygen!

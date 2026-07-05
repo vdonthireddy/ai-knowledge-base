@@ -48,10 +48,6 @@ graph TD
     
     D -- "No (Clean Code)" --> F[✅ Safe Deployment to Blockchain]
     
-    style B fill:#e6f3ff,stroke:#4a90e2
-    style C fill:#e6fffa,stroke:#38b2ac,stroke-width:2px
-    style D fill:#fff5eb,stroke:#ed8936
-    style F fill:#f5ebff,stroke:#805ad5
 ```
 
 Instead of waiting for a human to slowly read through thousands of lines of code, an AI auditor can instantly scan a smart contract before it goes live, flagging vulnerabilities and even suggesting the exact code needed to fix them.

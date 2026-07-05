@@ -33,8 +33,6 @@ graph TD
         World -.->|Reward / Penalty<br/>(e.g., -1 point for falling, +10 for stepping)| Agent
     end
     
-    style Agent fill:#e6fffa,stroke:#38b2ac,stroke-width:2px
-    style World fill:#fff5eb,stroke:#ed8936
 ```
 
 > [!TIP]
@@ -71,10 +69,6 @@ graph LR
     C -.->|"Plans to stop<br/>before the crosswalk"| D
     D -.->|"Applies the brakes"| A
     
-    style A fill:#e6f3ff,stroke:#4a90e2
-    style B fill:#f5ebff,stroke:#805ad5
-    style C fill:#fff5eb,stroke:#ed8936
-    style D fill:#e6fffa,stroke:#38b2ac
 ```
 
 A self-driving car doesn't just react; it anticipates. It loops through this process dozens of times per second to predict what unpredictable human drivers and pedestrians might do next.

@@ -62,14 +62,7 @@ graph TD
         AI --> PC2[💻 Cursor moves on screen!]
     end
     
-    style Brain1 fill:#f9f9f9,stroke:#ccc
-    style Fingers fill:#f9f9f9,stroke:#ccc
-    style PC1 fill:#f9f9f9,stroke:#ccc
     
-    style Brain2 fill:#ffebef,stroke:#d53f8c
-    style BCI fill:#e6fffa,stroke:#38b2ac,stroke-width:2px
-    style AI fill:#e6f3ff,stroke:#4a90e2
-    style PC2 fill:#fff5eb,stroke:#ed8936
 ```
 
 ### The Role of AI in Reading Minds

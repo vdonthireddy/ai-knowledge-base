@@ -58,9 +58,6 @@ graph TD
     C --> E[Result: INCOMPLETE]
     D --> F[Result: INCONSISTENT]
     
-    style B fill:#f9f9f9,stroke:#333
-    style E fill:#f5ebff,stroke:#805ad5,stroke-width:2px
-    style F fill:#fff5eb,stroke:#ed8936,stroke-width:2px
 ```
 
 ---

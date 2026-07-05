@@ -41,9 +41,6 @@ graph TD
         G --> H[✅ Accurate, Fact-Based Answer]
     end
     
-    style A fill:#f9f9f9,stroke:#ccc
-    style D fill:#e6fffa,stroke:#38b2ac,stroke-width:2px
-    style H fill:#fff5eb,stroke:#ed8936
 ```
 
 ---
@@ -62,7 +59,6 @@ graph LR
     Agent -->|3. Uses Tool| Email[📧 Email App]
     Email --> Success[✅ Meeting Scheduled!]
     
-    style Agent fill:#e6f3ff,stroke:#4a90e2,stroke-width:2px
 ```
 
 ---

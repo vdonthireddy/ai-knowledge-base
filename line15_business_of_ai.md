@@ -33,10 +33,6 @@ graph TD
     
     WS[🍔 Wrapper Startups<br/>Jasper, Harvey<br/>'The Restaurants'] -->|Specific AI Apps| U[🧑 You, The Customer]
     
-    style VC fill:#f5ebff,stroke:#805ad5
-    style FM fill:#e6f3ff,stroke:#4a90e2
-    style CP fill:#e6fffa,stroke:#38b2ac
-    style WS fill:#fff5eb,stroke:#ed8936
 ```
 
 ---

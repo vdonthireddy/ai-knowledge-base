@@ -65,9 +65,6 @@ graph TD
     E --> B
     D -- "Decisions are Fair" --> F[✅ Deploy AI]
     
-    style A fill:#f9f9f9,stroke:#ccc
-    style D fill:#fff5eb,stroke:#ed8936
-    style F fill:#e6fffa,stroke:#38b2ac
 ```
 
 ---

@@ -105,12 +105,6 @@ graph TD
     
     F -- "Model is outdated! (Data Drift)" --> A
     
-    style A fill:#e6f3ff,stroke:#4a90e2
-    style B fill:#f5ebff,stroke:#805ad5
-    style C fill:#fff5eb,stroke:#ed8936
-    style D fill:#e6fffa,stroke:#38b2ac
-    style E fill:#e6fffa,stroke:#38b2ac
-    style F fill:#ffebee,stroke:#e53935
 ```
 
 ### Summary

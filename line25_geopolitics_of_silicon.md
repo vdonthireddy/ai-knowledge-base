@@ -28,9 +28,6 @@ graph TD
     B -->|Silicon Wafers| E[🇲🇾🇻🇳 Assembly & Testing<br/>Malaysia, Vietnam, China]
     E -->|Finished Chips| F[🌍 Global Market<br/>Phones, Cars, AI, Weapons]
     
-    style B fill:#e6f3ff,stroke:#4a90e2,stroke-width:2px
-    style C fill:#fff5eb,stroke:#ed8936
-    style A fill:#f5ebff,stroke:#805ad5
 ```
 
 * **The Architects (US):** Companies like Apple and Nvidia design the chips, but they don't actually build them. 

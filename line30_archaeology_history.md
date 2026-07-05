@@ -41,8 +41,6 @@ graph TD
         AI2 -->|"Detects faint ink patterns"| Text[📖 Readable Ancient Greek]
     end
 
-    style AI1 fill:#e6fffa,stroke:#38b2ac,stroke-width:2px
-    style AI2 fill:#e6fffa,stroke:#38b2ac,stroke-width:2px
 ```
 
 ---

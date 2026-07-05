@@ -31,11 +31,6 @@ graph TD
     E --> C
     D -- "Yes (Passed the test)" --> F[Final Deployment]
 
-    style A fill:#f9f9f9,stroke:#ccc
-    style B fill:#e6fffa,stroke:#38b2ac
-    style C fill:#e6f3ff,stroke:#4a90e2
-    style D fill:#fff5eb,stroke:#ed8936
-    style F fill:#f5ebff,stroke:#805ad5
 ```
 
 ---

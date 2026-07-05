@@ -58,9 +58,6 @@ graph TD
     C -. "Predictor was wrong!" .-> B
     D -. "Predictor was wrong!" .-> B
     
-    style B fill:#e6f3ff,stroke:#4a90e2,stroke-width:2px
-    style C fill:#fff5eb,stroke:#ed8936
-    style D fill:#e6fffa,stroke:#38b2ac
 ```
 
 What happens when you ask the Predictor to analyze the Spiteful Reverser? 

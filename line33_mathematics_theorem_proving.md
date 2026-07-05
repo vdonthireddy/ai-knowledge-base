@@ -55,10 +55,6 @@ graph TD
     
     C -- "Proof is 100% Valid" --> D[🎉 New Mathematical Theorem Discovered!]
     
-    style A fill:#e6f3ff,stroke:#4a90e2
-    style B fill:#e6fffa,stroke:#38b2ac
-    style C fill:#fff5eb,stroke:#ed8936
-    style D fill:#f5ebff,stroke:#805ad5
 ```
 
 ### 🧠 The Two Halves of the Oracle brain

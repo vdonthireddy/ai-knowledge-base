@@ -39,14 +39,12 @@ graph TD
         direction LR
         Phone1[📱 Your Phone] -.->|1. Sends Data over Wi-Fi| Cloud[☁️ Massive Data Center]
         Cloud -.->|2. Sends Answer Back| Phone1
-        style Cloud fill:#e6f3ff,stroke:#4a90e2,stroke-width:2px
     end
 
     subgraph The Suburbs (Edge AI)
         direction LR
         Phone2[📱 Your Phone] -->|Processes everything locally| AIChip[🧠 Built-in AI Chip]
         AIChip -->|Instant Answer| Phone2
-        style AIChip fill:#e6fffa,stroke:#38b2ac,stroke-width:2px
     end
 
     The City ~~~ The Suburbs

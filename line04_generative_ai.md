@@ -66,9 +66,6 @@ graph TD
         AI2 -->|"Reads PDF & Answers"| Right[✅ Accurate Answer]
     end
     
-    style AI1 fill:#f9f9f9,stroke:#ccc
-    style Search fill:#e6fffa,stroke:#38b2ac,stroke-width:2px
-    style AI2 fill:#fff5eb,stroke:#ed8936
 ```
 
 ### 🗂️ Embeddings & Similarity Search

@@ -49,11 +49,6 @@ flowchart LR
     HL -.-> |Powers| ML
     ML -.-> |Drives| AL
     
-    style GC fill:#f9d0c4,stroke:#333,stroke-width:4px,color:#000
-    style HL fill:#d4e157,stroke:#333,stroke-width:2px,color:#000
-    style DL fill:#4fc3f7,stroke:#333,stroke-width:2px,color:#000
-    style ML fill:#ff8a65,stroke:#333,stroke-width:2px,color:#000
-    style AL fill:#ba68c8,stroke:#333,stroke-width:2px,color:#000
 ```
 
 ---

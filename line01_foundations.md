@@ -49,11 +49,6 @@ graph TD
     
     I --> J[🚀 Next Stop: Machine Learning]
 
-    style A fill:#e6f3ff,stroke:#4a90e2
-    style B fill:#e6fffa,stroke:#38b2ac
-    style E fill:#fff5eb,stroke:#ed8936
-    style F fill:#f5ebff,stroke:#805ad5
-    style I fill:#ffe6e6,stroke:#e53e3e
 ```
 
 ---

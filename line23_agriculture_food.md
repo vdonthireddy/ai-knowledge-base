@@ -40,10 +40,6 @@ graph TD
         Action2 -->|"Saves resources"| Result2[📈 Maximum Yield]
     end
 
-    style Farmer1 fill:#f9f9f9,stroke:#ccc
-    style Sensors fill:#e6fffa,stroke:#38b2ac,stroke-width:2px
-    style AI2 fill:#fff5eb,stroke:#ed8936
-    style Action2 fill:#e6f3ff,stroke:#4a90e2
 ```
 
 ---

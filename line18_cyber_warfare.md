@@ -42,10 +42,6 @@ flowchart TD
     G --> H[AI Learns from Attack to Improve Future Defenses]
     H -.->|Forces hackers to evolve| A
     
-    style A fill:#ffcccc,stroke:#ff0000,stroke-width:2px,color:#000
-    style B fill:#e6f2ff,stroke:#0066cc,stroke-width:2px,color:#000
-    style F fill:#ccffcc,stroke:#009900,stroke-width:2px,color:#000
-    style G fill:#ccffcc,stroke:#009900,stroke-width:2px,color:#000
 ```
 
 ## 🛡️ Summary

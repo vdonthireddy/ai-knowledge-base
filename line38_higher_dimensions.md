@@ -71,8 +71,6 @@ flowchart TD
     
     G -->|Translated back into| H([Human Understanding])
     
-    classDef ai fill:#f9f,stroke:#333,stroke-width:2px;
-    class C ai;
 ```
 
 ---

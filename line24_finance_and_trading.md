@@ -40,10 +40,6 @@ graph TD
         HFT2[🤖 Trading Bot B] <-->|"Competes for best price"| Market
     end
     
-    style User fill:#f9f9f9,stroke:#ccc
-    style HFT1 fill:#e6fffa,stroke:#38b2ac,stroke-width:2px
-    style HFT2 fill:#e6fffa,stroke:#38b2ac,stroke-width:2px
-    style Market fill:#fff5eb,stroke:#ed8936
 ```
 
 ---

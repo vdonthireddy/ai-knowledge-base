@@ -47,8 +47,6 @@ graph TD
         C --> D[Complex Output<br/>e.g., A Galaxy or DNA]
     end
 
-    style A fill:#e6fffa,stroke:#38b2ac,stroke-width:2px
-    style D fill:#fff5eb,stroke:#ed8936,stroke-width:2px
 ```
 
 ---

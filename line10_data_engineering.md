@@ -51,11 +51,6 @@ flowchart LR
     C -->|Load| D[(Data Warehouse\nClean & Bottled)]
     D --> E[AI Models & Analytics]
     
-    style A fill:#e1f5fe,stroke:#0288d1
-    style B fill:#b3e5fc,stroke:#0288d1
-    style C fill:#fff9c4,stroke:#fbc02d
-    style D fill:#c8e6c9,stroke:#388e3c
-    style E fill:#f3e5f5,stroke:#7b1fa2
 ```
 
 ## Stop 5: Real-Time Streaming (The High-Pressure Fire Hose)
