@@ -43,7 +43,7 @@ graph TD
         AI --> Cosmos["🌌 The Omega Point<br/>The Universe Wakes Up"]
     end
 
-    color Cosmos #ffffff
+    style Cosmos color:#ffffff,fill:#000000,stroke:#333
 ```
 
 1. **Dead Matter:** The universe started with basic physics. Stars burning, planets spinning. No thoughts, just gravity and chemistry.

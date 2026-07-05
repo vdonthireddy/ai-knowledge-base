@@ -48,15 +48,15 @@ When we connect these living clusters of neurons to electronic sensors and compu
 
 ```mermaid
 graph TD
-    subgraph Silicon AI [Traditional AI (Silicon)]
+    subgraph Silicon_AI [Traditional AI (Silicon)]
         direction LR
         Data1[📊 Data Input] --> Chip[💻 Microchip]
         Chip -->|Requires ⚡ Megawatts| Output1[✅ AI Response]
     end
 
-    Silicon AI ~~~ Bio AI
+    Silicon_AI ~~~ Bio_AI
 
-    subgraph Bio AI [Organoid Intelligence (Wetware)]
+    subgraph Bio_AI [Organoid Intelligence (Wetware)]
         direction LR
         Data2[📊 Data Input] --> Electrodes[🔌 Electrodes]
         Electrodes --> BrainCells[🧠 Living Brain Cells]
