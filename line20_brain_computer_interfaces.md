@@ -48,14 +48,14 @@ A BCI bypasses the physical bottleneck entirely. It "listens" to the electrical 
 
 ```mermaid
 graph TD
-    subgraph The_Old_Way [The Old Way]
+    subgraph The_Old_Way ["The Old Way"]
         direction LR
         Brain1[🧠 Brain has a thought] --> Fingers[🖐️ Fingers Type on Keyboard] --> PC1[💻 Computer Registers Input]
     end
 
     PC1 ~~~ Brain2
 
-    subgraph The_Cyborg_Wing_Approach [The Cyborg Wing Approach]
+    subgraph The_Cyborg_Wing_Approach ["The Cyborg Wing Approach"]
         direction LR
         Brain2[🧠 Brain thinks about moving a cursor] --> BCI[⚙️ Neuralink/BCI Device reads brain waves]
         BCI --> AI[🤖 AI Decodes the waves into an action]

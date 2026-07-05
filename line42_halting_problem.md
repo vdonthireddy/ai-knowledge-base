@@ -50,7 +50,7 @@ The Spiteful Reverser asks the Predictor what it is going to do, and then it doe
 graph TD
     A[🧑 User] -->|Feeds Spiteful Reverser into Predictor| B{🔮 The Perfect Predictor}
     
-    subgraph The_Paradox [The Paradox]
+    subgraph The_Paradox ["The Paradox"]
     B -->|Predicts: 'It will HALT'| C[🔄 Reverser goes into an INFINITE LOOP]
     B -->|Predicts: 'It will LOOP FOREVER'| D[🛑 Reverser HALTS immediately]
     end

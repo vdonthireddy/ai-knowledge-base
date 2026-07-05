@@ -27,14 +27,14 @@ These AI algorithms look for tiny patterns in the market, news headlines, and ev
 
 ```mermaid
 graph TD
-    subgraph Human_World [Human World]
+    subgraph Human_World ["Human World"]
         direction LR
         User[🧑 You] -->|"Buys 1 Share<br/>(Takes 2 seconds)"| Broker[📱 Broker App]
     end
 
     Broker ~~~ Market
 
-    subgraph The_AI_Vault [The AI Vault]
+    subgraph The_AI_Vault ["The AI Vault"]
         direction LR
         HFT1[🤖 Trading Bot A] <-->|"Buys & Sells 10,000 Shares<br/>(Takes 0.001 seconds)"| Market[📈 Stock Exchange]
         HFT2[🤖 Trading Bot B] <-->|"Competes for best price"| Market

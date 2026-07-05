@@ -24,7 +24,7 @@ AI changes the game because it is incredibly good at **pattern recognition**. It
 
 ```mermaid
 graph TD
-    subgraph A [The Old Way: Human Effort]
+    subgraph A ["The Old Way: Human Effort"]
         direction LR
         Dirt[🌱 Overgrown Jungle] -->|"Hike for months with machetes"| Ruins1[🏛️ Maybe find a ruin]
         Burnt[📜 Burnt Scroll] -->|"Try to unroll it physically"| Dust[💨 Crumbles to dust]
@@ -32,7 +32,7 @@ graph TD
 
     Dust ~~~ B
 
-    subgraph B [The New Way: AI & Tech]
+    subgraph B ["The New Way: AI & Tech"]
         direction LR
         Scan1[📡 LiDAR Satellite Scan] --> AI1{🤖 AI Terrain Analysis}
         AI1 -->|"Strips away trees digitally"| City[🏙️ Massive Hidden City Revealed]

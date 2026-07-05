@@ -24,26 +24,26 @@ Here is what your journey through the Foundations Station looks like. You can't 
 
 ```mermaid
 graph TD
-    subgraph The_Basics [The Basics]
+    subgraph The_Basics ["The Basics"]
         A[💻 Command Line Tools] --> B[🐍 Python Programming]
     end
     
-    subgraph The_Materials [The Materials]
+    subgraph The_Materials ["The Materials"]
         B --> C[🔢 NumPy & Pandas]
         C --> D[🧹 Data Cleaning & Vis]
     end
     
-    subgraph The_Logic [The Logic]
+    subgraph The_Logic ["The Logic"]
         D --> E[🗂️ Data Structures & Algorithms]
     end
     
-    subgraph The_Physics_Engine [The Physics Engine]
+    subgraph The_Physics_Engine ["The Physics Engine"]
         E --> F[📐 Linear Algebra]
         F --> G[🎲 Probability & Stats]
         G --> H[📈 Calculus]
     end
     
-    subgraph The_Safety_Net [The Safety Net]
+    subgraph The_Safety_Net ["The Safety Net"]
         H --> I[🐙 Git & Version Control]
     end
     

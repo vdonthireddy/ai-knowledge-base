@@ -40,7 +40,7 @@ If you let this grid update itself over and over again, something incredible hap
 
 ```mermaid
 graph TD
-    subgraph The_Game_of_Reality [The Game of Reality]
+    subgraph The_Game_of_Reality ["The Game of Reality"]
         direction TB
         A[Simple Rule<br/>e.g., '1 + 1 = 2'] --> B[Update Frame 1]
         B --> C[Update Frame 2]

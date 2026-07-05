@@ -28,7 +28,7 @@ The **Career Launchpad** is a multi-stage approach where you build undeniable pr
 
 ```mermaid
 graph TD
-    subgraph A [The Old Way: The Resume Black Hole]
+    subgraph A ["The Old Way: The Resume Black Hole"]
         direction LR
         User1[🧑 You] -->|"Send 500 Resumes"| Void[🕳️ Automated HR Filter]
         Void -->|"Silence"| Final1[❌ No Interviews]
@@ -36,7 +36,7 @@ graph TD
 
     Final1 ~~~ User2
 
-    subgraph B [The Launchpad Approach]
+    subgraph B ["The Launchpad Approach"]
         direction LR
         User2[🧑 You] -->|"Build Portfolio & Network"| Proof[✅ Undeniable Proof]
         Proof -->|"Recruiters find YOU"| HR[🤝 Interviews]

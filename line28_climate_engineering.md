@@ -40,17 +40,17 @@ AI acts as the ultimate **Power Grid Manager**:
 
 ```mermaid
 graph TD
-    subgraph Data_Inputs [Data Inputs]
+    subgraph Data_Inputs ["Data Inputs"]
         A[☀️ Solar Forecast] --> AI
         B[💨 Wind Forecast] --> AI
         C[🏙️ City Power Demand] --> AI
     end
 
-    subgraph The_AI_Manager [The AI Manager]
+    subgraph The_AI_Manager ["The AI Manager"]
         AI{🤖 AI Grid Controller}
     end
 
-    subgraph Energy_Distribution [Energy Distribution]
+    subgraph Energy_Distribution ["Energy Distribution"]
         AI -- "High Supply / Low Demand" --> D[🔋 Charge Grid Batteries]
         AI -- "Matched Supply & Demand" --> E[⚡ Send Directly to Cities]
         AI -- "Low Supply / High Demand" --> F[🏭 Tap Backup Generators]

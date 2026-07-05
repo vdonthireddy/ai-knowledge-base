@@ -24,7 +24,7 @@ When things go wrong in space, they go wrong fast. Spacecraft need to be able to
 
 ```mermaid
 graph TD
-    subgraph Human_Control___The_Old_Way [Human Control - The Old Way]
+    subgraph Human_Control___The_Old_Way ["Human Control - The Old Way"]
         direction LR
         Earth[🌍 Earth Command] -->|Sends 'Turn Left'| Delay[⏳ 20 Minute Delay] 
         Delay --> Rover[💥 Rover Hits a Rock]
@@ -32,7 +32,7 @@ graph TD
 
     Rover ~~~ AI_Rover
 
-    subgraph AI_Control___The_New_Way [AI Control - The New Way]
+    subgraph AI_Control___The_New_Way ["AI Control - The New Way"]
         direction LR
         Earth2[🌍 Earth Command] -->|Sends 'Drive North'| AI_Rover[🤖 Rover with AI]
         AI_Rover -->|Sees Rock| Process[🧠 Thinks 'Steer Left'] 
@@ -67,7 +67,7 @@ graph TD
     A[✨ Starlight + Planet] --> B[🔭 JWST Collects Data]
     B --> C[📊 Terabytes of Noisy Data]
     
-    subgraph AI_Pattern_Recognition [AI Pattern Recognition]
+    subgraph AI_Pattern_Recognition ["AI Pattern Recognition"]
     C --> D{🧠 AI Filters Data}
     D -- "Filters out blinding light" --> D
     D -- "Filters out instrument noise" --> D

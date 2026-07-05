@@ -91,14 +91,14 @@ Here is how all these pieces fit together to create a smooth, automated pipeline
 graph TD
     A[🧑 Data Scientist<br/>Trains & Updates Model] -->|Saves Code| B[⚙️ GitHub Actions<br/>Automated Testing]
     
-    subgraph The_Assembly_Line [The Assembly Line]
+    subgraph The_Assembly_Line ["The Assembly Line"]
     B -->|Fails| A
     B -->|Passes| C[📦 Docker Container<br/>Packs model & libraries]
     end
     
     C --> D[☁️ Cloud Deployment<br/>AWS SageMaker / GCP]
     
-    subgraph The_Real_World [The Real World]
+    subgraph The_Real_World ["The Real World"]
     D --> E[☸️ Kubernetes<br/>Scales copies based on traffic]
     E --> F[🔍 Prometheus / Evidently<br/>Monitors model health]
     end

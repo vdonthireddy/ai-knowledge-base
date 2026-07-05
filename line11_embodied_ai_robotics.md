@@ -26,7 +26,7 @@ Reinforcement Learning works exactly the same way for AI.
 
 ```mermaid
 graph TD
-    subgraph Reinforcement_Learning_Loop [Reinforcement Learning Loop]
+    subgraph Reinforcement_Learning_Loop ["Reinforcement Learning Loop"]
         direction TB
         Agent[🤖 AI Brain] -->|Takes an action<br/>(e.g., moves a leg)| World[🌍 The Physical World]
         World -->|Updates State<br/>(e.g., robot fell over)| Agent

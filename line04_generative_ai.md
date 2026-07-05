@@ -53,13 +53,13 @@ To fix this, we use **RAG (Retrieval-Augmented Generation)**.
 
 ```mermaid
 graph TD
-    subgraph Standard_LLM [Standard LLM]
+    subgraph Standard_LLM ["Standard LLM"]
         direction LR
         User1[🧑 User] -->|"What's our policy?"| AI1[🤖 LLM]
         AI1 -->|"I don't know/Makes it up"| Wrong[❌ Hallucination]
     end
 
-    subgraph RAG_Approach__Open_Book_Test_ [RAG Approach (Open-Book Test)]
+    subgraph RAG_Approach__Open_Book_Test_ ["RAG Approach (Open-Book Test)"]
         direction LR
         User2[🧑 User] -->|"What's our policy?"| Search{🔍 Search Database}
         Search -->|"Finds Policy PDF"| AI2[🤖 LLM + PDF]

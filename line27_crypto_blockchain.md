@@ -39,7 +39,7 @@ Because the blockchain is public, anyone can read the code of a smart contract. 
 graph TD
     A[🧑 Developer Writes Code] --> B[📜 Ethereum Smart Contract]
     
-    subgraph The_Audit_Process [The Audit Process]
+    subgraph The_Audit_Process ["The Audit Process"]
     B --> C[🤖 AI Security Scanner]
     C --> D{🔍 Vulnerability Found?}
     D -- "Yes (e.g., Reentrancy Bug)" --> E[⚠️ Alert & Suggest Fix]

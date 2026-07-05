@@ -42,7 +42,7 @@ How does this giant committee actually learn to be smart?
 
 ```mermaid
 graph TD
-    subgraph The_Learning_Loop [The Learning Loop]
+    subgraph The_Learning_Loop ["The Learning Loop"]
         direction LR
         A[Raw Data In] --> B[Committee Guesses]
         B --> C{Boss Checks Answer}

@@ -21,7 +21,7 @@ In our AI Metro system, there are four major lines. They don't operate in isolat
 
 ```mermaid
 flowchart LR
-    subgraph Passengers [Who Are You?]
+    subgraph Passengers ["Who Are You?"]
         R([The Researcher])
         E([The Engineer])
         P([The Product Manager])
@@ -29,7 +29,7 @@ flowchart LR
 
     GC(((Grand Central<br>Terminal)))
 
-    subgraph Lines [The Metro Lines]
+    subgraph Lines ["The Metro Lines"]
         HL[Hardware Line]
         DL[Data Line]
         ML[Model Line]

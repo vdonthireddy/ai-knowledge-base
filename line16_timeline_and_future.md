@@ -40,16 +40,16 @@ When you mix that fuel into that engine using those blueprints, you get a rocket
 
 ```mermaid
 graph LR
-    subgraph The_Past [The Past]
+    subgraph The_Past ["The Past"]
         A[1950s-60s<br/>Early Optimism] --> B[1970s & 80s<br/>❄️ AI Winters]
     end
     
-    subgraph The_Present [The Present]
+    subgraph The_Present ["The Present"]
         B --> C[2010s<br/>🔥 Deep Learning Boom]
         C --> D[Data + GPUs + Algorithms]
     end
     
-    subgraph The_Future [The Future]
+    subgraph The_Future ["The Future"]
         D --> E[AGI<br/>Human-Level AI]
         E --> F[ASI<br/>Super-Intelligence]
     end
