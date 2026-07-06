@@ -16,7 +16,7 @@ We humans are essentially those stick figures, but in a 3D world. Our brains evo
 
 ---
 
-## The Need for 11 Dimensions: A Quick Primer on String Theory
+## The Need for Extra Dimensions: A Quick Primer on String Theory and M-Theory
 
 For decades, physicists have been trying to combine the two most successful theories in science:
 1. **General Relativity:** (The physics of the very large, like gravity and black holes).
@@ -24,7 +24,7 @@ For decades, physicists have been trying to combine the two most successful theo
 
 The problem? They don't play nicely together. To unite them, scientists proposed **String Theory**, which suggests that the fundamental ingredients of the universe aren't tiny dots (particles), but microscopic vibrating strings of energy.
 
-There’s a catch, though: the math of String Theory *only* works if the universe has **11 dimensions** (10 dimensions of space and 1 of time). 
+There’s a catch, though: the original superstring theories require **10 dimensions** (9 of space and 1 of time) for their mathematics to work. In 1995, physicist Edward Witten proposed **M-theory**—a unification of all five competing superstring theories—which extends this requirement to **11 dimensions** (10 of space and 1 of time). 
 
 ---
 

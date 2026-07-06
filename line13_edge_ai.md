@@ -76,7 +76,7 @@ The result? An AI model that used to require a warehouse of servers can now run 
 
 A perfect example of Edge AI in action is **Apple Intelligence**. 
 
-When Apple introduced their AI features for the iPhone, they didn't just point everything to the cloud. Instead, they designed special chips (the Neural Engine) inside your phone to handle AI tasks locally. 
+When Apple introduced their AI features for the iPhone, they built on a foundation that already existed: the **Neural Engine**, a dedicated AI-processing chip Apple has included in every iPhone since the A11 Bionic (iPhone X, 2017). Apple Intelligence is the software layer that takes full advantage of this hardware.
 
 When you ask your phone to summarize an email or rewrite a text message, your phone doesn't send that personal email to a server in California. It reads the email using the TinyML model built right into your device. 
 

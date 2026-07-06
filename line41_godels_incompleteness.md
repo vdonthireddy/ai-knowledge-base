@@ -87,7 +87,7 @@ AI, at its core, is just a highly complex calculator. It operates entirely on ma
 * **Flawless AI is a Myth:** We can never build an AI system that is guaranteed to be 100% bug-free, perfectly consistent, and capable of solving every possible logical problem. 
 
 > [!WARNING]
-> Because of Gödel, there is a hard, mathematical boundary on Artificial General Intelligence (AGI). An AI can never achieve absolute logical omniscience.
+> Gödel's Incompleteness Theorems are often interpreted as placing philosophical limits on AI. The argument goes: since any formal system has unprovable truths, and AI is a formal system, AI can never achieve absolute logical omniscience. This is a thought-provoking position, but it's important to note it is a **philosophical interpretation**, not a settled technical conclusion. Many computer scientists point out that human brains operate under the same formal constraints — yet still function effectively. The theorems define hard limits for *formal proof systems*, not necessarily for the practical reasoning abilities of intelligent agents.
 
 ---
 

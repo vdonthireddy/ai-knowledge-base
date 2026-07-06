@@ -45,7 +45,7 @@ Imagine you are asked to draw a highly detailed street map of New York City, inc
 
 That is effectively what an EUV machine does, but instead of drawing streets, it is carving billions of microscopic electrical switches (transistors) onto a piece of silicon. 
 
-To achieve this, the ASML machine blasts a microscopic droplet of molten tin with a laser 50,000 times a second. This creates a plasma that emits a type of light that doesn't naturally exist on Earth. This light is then bounced off the flattest mirrors ever created to project the chip's blueprint onto the silicon. 
+To achieve this, the ASML machine blasts a microscopic droplet of molten tin with a laser 50,000 times a second. This creates a plasma that emits Extreme Ultraviolet (EUV) light—a wavelength of light that the Sun does produce, but that Earth's atmosphere absorbs entirely, so it effectively doesn't exist at usable intensities at the surface. This light is then bounced off the flattest mirrors ever created to project the chip's blueprint onto the silicon.
 
 > [!TIP]
 > ASML is the **only company in the world** that can build these machines. Without them, it is physically impossible to manufacture the world's most advanced microchips. 

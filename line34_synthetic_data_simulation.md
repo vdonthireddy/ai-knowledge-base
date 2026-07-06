@@ -1,6 +1,6 @@
 # The Layman's Guide to the AI Metro Map: Line 34 - Synthetic Data & Simulation (The Matrix)
 
-Welcome to the **Stratosphere** section of the AI Metro Map! If you've been following along, you know that AI gets its smarts by "reading" massive amounts of data from the internet. But what happens when the AI finishes reading the entire internet? Welcome to **Line 34**, where we enter "The Matrix" of AI training: Synthetic Data and Simulation.
+Welcome to the **Stratosphere** section of the AI Metro Map! If you've been following along, you know that AI gets its smarts by "reading" massive amounts of data from the internet. But what happens when the AI starts running out of high-quality human-written content to learn from? Welcome to **Line 34**, where we enter "The Matrix" of AI training: Synthetic Data and Simulation.
 
 ---
 
@@ -10,7 +10,7 @@ Imagine you are trying to teach a child everything there is to know about the wo
 
 Eventually, you hit a wall: **The child has read every single book in the library.** 
 
-This is exactly what is happening in the AI world today. The giant AI models (like ChatGPT) have essentially read the entire public internet. There are no more human-written blogs, forums, or articles left to train them on. We are running out of high-quality human data.
+This is exactly what is happening in the AI world today. The giant AI models (like ChatGPT) have consumed a vast proportion of the publicly available, high-quality text on the internet. New high-quality human-written data is becoming increasingly scarce, even if the full web has not been read — large portions of it are paywalled, in non-English languages, or otherwise unavailable for training.
 
 So, how do we keep making AI smarter if we've run out of reading material? 
 
@@ -77,7 +77,7 @@ flowchart TD
 
 ## 💡 Key Takeaways
 
-1. **We are running out of internet:** AI has consumed almost all high-quality human text.
+1. **High-quality data is becoming scarce:** AI has consumed a vast portion of publicly available, high-quality human text, and new material is harder to find.
 2. **AI is teaching AI:** We now use "Teacher AIs" to generate pristine **Synthetic Data** to keep training newer models.
 3. **Robots learn in video games:** Before a robot walks in the real world, it spends millions of hours mastering physics inside a **Digital Twin** simulation—our very own Matrix.
 

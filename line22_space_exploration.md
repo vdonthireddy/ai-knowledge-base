@@ -58,7 +58,7 @@ Mars rovers (like Perseverance) use onboard AI for **autonomous navigation**.
 
 ## 3. James Webb Space Telescope: Finding Exoplanets in the Noise
 
-The James Webb Space Telescope (JWST) is the most powerful telescope ever built, but finding an "exoplanet" (a planet orbiting a distant star) is incredibly difficult. 
+The James Webb Space Telescope (JWST) is the most powerful *space-based* telescope ever built and currently in operation, but finding an "exoplanet" (a planet orbiting a distant star) is incredibly difficult.
 
 Imagine trying to spot a tiny firefly buzzing around a massive lighthouse from 10 miles away. The light from the star completely blinds our view of the tiny planet. Instead of looking directly at the planet, astronomers look for a tiny dip in the lighthouse's brightness when the firefly flies in front of it.
 

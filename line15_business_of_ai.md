@@ -54,7 +54,7 @@ Farmers need a way to distribute their crops globally without them spoiling. In 
 These tech giants own the massive data centers (the refrigerated trucks and supermarket shelves) required to run these heavy AI models and serve them to millions of customers every second without the system crashing. 
 
 > [!NOTE]
-> **The Microsoft/OpenAI Alliance:** Sometimes, the supermarket buys the farm! Microsoft invested billions into OpenAI. In return, Microsoft Azure is the exclusive "supermarket" where businesses can buy OpenAI's ingredients. Google, on the other hand, grows its own crops (Gemini) *and* owns the supermarket (Google Cloud).
+> **The Microsoft/OpenAI Alliance:** Sometimes, the supermarket buys the farm! Microsoft invested billions into OpenAI, and Azure is the preferred cloud for running OpenAI's models at scale. However, OpenAI also operates its own direct API at platform.openai.com, so businesses can buy from either channel — Azure is a major partner, not an exclusive distributor. Google, on the other hand, grows its own crops (Gemini) *and* owns the supermarket (Google Cloud).
 
 ---
 

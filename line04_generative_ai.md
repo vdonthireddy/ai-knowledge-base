@@ -91,9 +91,12 @@ Imagine a sculptor starting with a massive block of static (pure random visual n
 > [!TIP]
 > Diffusion isn't just for images! The exact same "start with static and refine" concept is used to generate brand new music and realistic AI voiceovers.
 
-### 🐙 Multimodal Models (CLIP, Flamingo, Gemini)
+### 🐙 Multimodal Models (Flamingo, Gemini)
 For a long time, text AI and vision AI were kept in separate boxes. **Multimodal Models** combine them.
-A multimodal AI (like Google's Gemini, or CLIP) can look at a photo of the inside of your refrigerator, understand what the ingredients are, and then write out a recipe for dinner. It processes text, images, and audio seamlessly in one single brain.
+A multimodal AI (like Google's Gemini, or DeepMind's Flamingo) can look at a photo of the inside of your refrigerator, understand what the ingredients are, and then write out a recipe for dinner. It processes text, images, and audio seamlessly in one single brain.
+
+> [!NOTE]
+> **What about CLIP?** OpenAI's **CLIP** is often mentioned alongside these models, but it works differently. CLIP is a *contrastive* model—it matches images to text descriptions (e.g., "does this photo match the caption 'a dog on a beach'?"). It cannot generate text or write recipes. The ability to *create* new content based on an image belongs to generative multimodal models like Gemini and Flamingo.
 
 ---
 

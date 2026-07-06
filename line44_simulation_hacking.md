@@ -24,7 +24,7 @@ In quantum mechanics, particles behave in a very similar way. They exist in a st
 Here are a few things the AI might look for to prove we're in a simulation:
 *   **A maximum speed limit:** Just like a computer processor has a maximum speed (clock speed), our universe has the speed of light. Nothing can process or travel faster than that limit.
 *   **A "pixel" of space and time:** On a computer screen, you can't get smaller than a single pixel. In physics, there is the "Planck length"—the absolute smallest possible measurement of space. If space is made of indivisible pixels, it might be a screen!
-*   **Error-correcting codes:** String theory researchers have actually found mathematical equations embedded in the fundamental laws of physics that perfectly match error-correcting codes used in modern web browsers and telecommunications.
+*   **Error-correcting codes:** Physicist James Gates Jr. found that the mathematical equations describing supersymmetry contain structures that are *similar in form* to certain error-correcting codes. This is a genuinely striking mathematical curiosity, though it's worth noting it describes a structural resemblance in the equations—not a perfect, verified match to the specific codes used in web browsers or telecommunications.
 
 ## The Breakout: Hacking the Base Reality
 
